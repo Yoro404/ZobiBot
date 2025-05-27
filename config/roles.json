@@ -1,0 +1,4 @@
+[
+    { "level": 5, "roleId": "ID_ROLE", "name": "Novice" },
+    { "level": 10, "roleId": "ID_ROLE", "name": "Expert" }
+  ]
