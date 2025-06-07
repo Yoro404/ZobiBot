@@ -5,7 +5,7 @@ Follow these steps to install and set up ZobiBot:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/Yoro404/ZobiBot.git
     cd ZobiBot
     ```
 
