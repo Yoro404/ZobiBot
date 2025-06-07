@@ -1,0 +1,6 @@
+{
+  "roles": [
+    { "level": 1000, "roleId": "ID_ROLE", "name": "Novice" },
+    { "level": 1001, "roleId": "ID_ROLE", "name": "Expert" }
+  ]
+}
